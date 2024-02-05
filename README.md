@@ -1,8 +1,6 @@
 # Four-Brother-and-Sons
 Sales Data Analysis
 
-Conclusions : 
-
 Conducted data cleaning and manipulation to ensure the accuracy and reliability of datasets.
 
 Executed Exploratory Data Analysis (EDA) utilizing Python, Pandas, and Seaborn to derive actionable insights from raw data.
